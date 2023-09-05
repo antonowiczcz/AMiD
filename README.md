@@ -1,5 +1,5 @@
 # AMiD
 
-##Klasa 4TD
+## Klasa 4TD
 
-##Uczeń: Gracjan Antonowicz
+## Uczeń: Gracjan Antonowicz

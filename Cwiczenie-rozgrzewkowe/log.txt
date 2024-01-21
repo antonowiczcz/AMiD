@@ -1,0 +1,286 @@
+Ogrzewanie włączone.
+Aktualna temperatura: 20.5°C
+Ogrzewanie włączone.
+Aktualna temperatura: 21.0°C
+Ogrzewanie włączone.
+Aktualna temperatura: 21.5°C
+Aktualna temperatura: 22.0°C
+Aktualna temperatura: 22.5°C
+Aktualna temperatura: 23.0°C
+Aktualna temperatura: 23.5°C
+Aktualna temperatura: 24.0°C
+Aktualna temperatura: 24.5°C
+Aktualna temperatura: 25.0°C
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 22.5 stopni Celsjusza
+Chłodzenie zostało włączone.
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ustawiono temperaturę na: 16.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Chłodzenie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 22.5 stopni Celsjusza
+Chłodzenie zostało włączone.
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 22.5 stopni Celsjusza
+Chłodzenie zostało włączone.
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 26.0 stopni Celsjusza
+Aktualna temperatura: 26.5 stopni Celsjusza
+Aktualna temperatura: 27.0 stopni Celsjusza
+Aktualna temperatura: 27.5 stopni Celsjusza
+Aktualna temperatura: 28.0 stopni Celsjusza
+Aktualna temperatura: 28.5 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Ustawiono temperaturę na: 17.0 stopni Celsjusza
+Aktualna temperatura: 17.0 stopni Celsjusza
+Chłodzenie zostało włączone.
+Chłodzenie zostało wyłączone.
+Chłodzenie zostało włączone.
+Chłodzenie zostało wyłączone.
+Ogrzewanie zostało włączone.
+Ogrzewanie zostało wyłączone.
+Ustawiono temperaturę na: 20.0 stopni Celsjusza
+Aktualna temperatura: 17.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 18.0 stopni Celsjusza
+Aktualna temperatura: 18.5 stopni Celsjusza
+Aktualna temperatura: 19.0 stopni Celsjusza
+Aktualna temperatura: 19.5 stopni Celsjusza
+Aktualna temperatura: 20.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Ustawiono temperaturę na: 33.0 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 26.0 stopni Celsjusza
+Aktualna temperatura: 26.5 stopni Celsjusza
+Aktualna temperatura: 27.0 stopni Celsjusza
+Aktualna temperatura: 27.5 stopni Celsjusza
+Aktualna temperatura: 28.0 stopni Celsjusza
+Aktualna temperatura: 28.5 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.5 stopni Celsjusza
+Aktualna temperatura: 30.0 stopni Celsjusza
+Aktualna temperatura: 30.5 stopni Celsjusza
+Aktualna temperatura: 31.0 stopni Celsjusza
+Aktualna temperatura: 31.5 stopni Celsjusza
+Aktualna temperatura: 32.0 stopni Celsjusza
+Aktualna temperatura: 32.5 stopni Celsjusza
+Aktualna temperatura: 33.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Ustawiono temperaturę na: 30.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 26.0 stopni Celsjusza
+Aktualna temperatura: 26.5 stopni Celsjusza
+Aktualna temperatura: 27.0 stopni Celsjusza
+Aktualna temperatura: 27.5 stopni Celsjusza
+Aktualna temperatura: 28.0 stopni Celsjusza
+Aktualna temperatura: 28.5 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Ustawiono temperaturę na: 18.0 stopni Celsjusza
+Aktualna temperatura: 29.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Chłodzenie zostało włączone.
+Aktualna temperatura: 28.5 stopni Celsjusza
+Aktualna temperatura: 28.0 stopni Celsjusza
+Aktualna temperatura: 27.5 stopni Celsjusza
+Aktualna temperatura: 27.0 stopni Celsjusza
+Aktualna temperatura: 26.5 stopni Celsjusza
+Aktualna temperatura: 26.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Aktualna temperatura: 20.0 stopni Celsjusza
+Aktualna temperatura: 19.5 stopni Celsjusza
+Aktualna temperatura: 19.0 stopni Celsjusza
+Aktualna temperatura: 18.5 stopni Celsjusza
+Aktualna temperatura: 18.0 stopni Celsjusza
+Chłodzenie zostało wyłączone.
+Ogrzewanie zostało włączone.
+Ogrzewanie zostało wyłączone.
+Ustawiono temperaturę na: 24.0 stopni Celsjusza
+Aktualna temperatura: 18.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 19.0 stopni Celsjusza
+Aktualna temperatura: 19.5 stopni Celsjusza
+Aktualna temperatura: 20.0 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Ustawiono temperaturę na: 26.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 23.0 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 26.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Ogrzewanie zostało włączone. Docelowa temperatura: 26.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Aktualna temperatura: 23.0 stopni Celsjusza
+Zatrzymano regulację temperatury.
+Aktualna temperatura: 23.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 26.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Chłodzenie zostało włączone. Docelowa temperatura: 18.0 stopni Celsjusza
+Aktualna temperatura: 25.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 23.5 stopni Celsjusza
+Aktualna temperatura: 23.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 20.5 stopni Celsjusza
+Aktualna temperatura: 20.0 stopni Celsjusza
+Aktualna temperatura: 19.5 stopni Celsjusza
+Aktualna temperatura: 19.0 stopni Celsjusza
+Aktualna temperatura: 18.5 stopni Celsjusza
+Aktualna temperatura: 18.0 stopni Celsjusza
+Chłodzenie zostało wyłączone.
+Aktualna temperatura: 20.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 21.0 stopni Celsjusza
+Aktualna temperatura: 21.5 stopni Celsjusza
+Aktualna temperatura: 22.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.
+Ogrzewanie zostało włączone. Docelowa temperatura: 25.0 stopni Celsjusza
+Aktualna temperatura: 22.5 stopni Celsjusza
+Aktualna temperatura: 23.0 stopni Celsjusza
+Zatrzymano regulację temperatury.
+Aktualna temperatura: 23.5 stopni Celsjusza
+Ogrzewanie zostało włączone.
+Aktualna temperatura: 24.0 stopni Celsjusza
+Aktualna temperatura: 24.5 stopni Celsjusza
+Aktualna temperatura: 25.0 stopni Celsjusza
+Ogrzewanie zostało wyłączone.

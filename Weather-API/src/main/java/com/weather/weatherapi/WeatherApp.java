@@ -37,7 +37,7 @@ public class WeatherApp extends Application {
         searchButton.setGraphic(searchIcon);
 
         TextArea wynikiTextArea = new TextArea();
-        wynikiTextArea.setEditable(false); // Uniemożliwia edycję wyników
+        wynikiTextArea.setEditable(false);
 
         searchButton.setOnAction(event -> {
             String miejscowosc = miejsceTextField.getText().trim();
@@ -68,7 +68,7 @@ public class WeatherApp extends Application {
     }
 
     private String getWeatherData(String location) throws IOException {
-        String apiKey = "869c87fe6cecdccfc62ecbb6c3d0a6b0";
+        String apiKey = "dla-bezpieczenstwa-usuniety";
         String apiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + location + "&appid=" + apiKey + "&units=metric";
 
         String jsonData = fetchData(apiUrl);
@@ -78,7 +78,7 @@ public class WeatherApp extends Application {
     }
 
     private String getForecastData(String location) throws IOException {
-        String apiKey = "869c87fe6cecdccfc62ecbb6c3d0a6b0";
+        String apiKey = "dla-bezpieczenstwa-usuniety";
         String apiUrl = "http://api.openweathermap.org/data/2.5/forecast?q=" + location + "&appid=" + apiKey + "&units=metric";
 
         String jsonData = fetchData(apiUrl);

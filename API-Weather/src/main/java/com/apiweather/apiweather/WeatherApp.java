@@ -9,18 +9,21 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
-import org.json.JSONObject;
-import org.w3c.dom.css.CSS2Properties;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.Objects;
 
-public class HelloApplication extends Application {
+import org.json.JSONObject;
+
+public class WeatherApp extends Application {
 
     private static final String API_KEY = "181daeb87cf996a470a1df7e03c24745";
-    private static final String API_URL = "http://api.openweathermap.org/data/3.0/weather";
+    private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather";
+
+    private BorderPane borderPane;
 
     public static void main(String[] args) {
         launch(args);
@@ -30,7 +33,7 @@ public class HelloApplication extends Application {
     public void start(Stage primaryStage) {
         primaryStage.setTitle("API Weather");
 
-        BorderPane borderPane = new BorderPane();
+        borderPane = new BorderPane();
 
         // Utwórz górny panel z napisem "API Weather"
         Label titleLabel = new Label("API Weather");
@@ -41,10 +44,10 @@ public class HelloApplication extends Application {
         HBox searchBox = new HBox();
         TextField cityField = new TextField();
         Button searchButton = new Button();
-        ImageView searchIcon = new ImageView(new Image(getClass().getResourceAsStream("search.png")));
-        searchIcon.setFitHeight(20);
-        searchIcon.setFitWidth(20);
-        searchButton.setGraphic(searchIcon);
+//        ImageView searchIcon = new ImageView(new Image(Objects.requireNonNull(getClass().getResourceAsStream("search.png"))));
+//        searchIcon.setFitHeight(20);
+//        searchIcon.setFitWidth(20);
+//        searchButton.setGraphic(searchIcon);
 
         searchButton.setOnAction(e -> {
             String cityName = cityField.getText();
@@ -116,31 +119,30 @@ public class HelloApplication extends Application {
 
     private void displayWeatherInfo(String weatherInfo) {
         if (weatherInfo != null) {
-            // Parsuj dane JSON z odpowiedzi API OpenWeatherMap
-            JSONObject json = new JSONObject(weatherInfo);
+            try {
+                // Parsuj dane JSON z odpowiedzi API OpenWeatherMap
+                JSONObject json = new JSONObject(weatherInfo);
 
-            // Pobierz ikonę pogody
-            String iconCode = json.getJSONArray("weather").getJSONObject(0).getString("icon");
-            String iconUrl = "http://openweathermap.org/img/w/" + iconCode + ".png";
+                // Pobierz ikonę pogody
+                String iconCode = json.getJSONArray("weather").getJSONObject(0).getString("icon");
+                String iconUrl = "http://openweathermap.org/img/w/" + iconCode + ".png";
 
-            // Ustaw ikonę pogody
-            ImageView weatherIcon = new ImageView(new Image(iconUrl));
-            CSS2Properties borderPane;
-            HBox weatherBox = (HBox) borderPane.getBottom();
-            weatherBox.getChildren().clear();
-            weatherBox.getChildren().add(weatherIcon);
+                // Ustaw ikonę pogody
+                ImageView weatherIcon = new ImageView(new Image(iconUrl));
+                HBox weatherBox = (HBox) borderPane.getBottom();
+                weatherBox.getChildren().clear();
+                weatherBox.getChildren().add(weatherIcon);
 
-            // Pobierz informacje o temperaturze
-            double temperature = json.getJSONObject("main").getDouble("temp");
-            String cityName = json.getString("name");
+                // Pobierz informacje o temperaturze
+                double temperature = json.getJSONObject("main").getDouble("temp");
+                String cityName = json.getString("name");
 
-            // Wyświetl informacje w obszarze tekstowym
-            TextArea weatherInfoArea = new TextArea();
-            weatherInfoArea.setEditable(false);
-            borderPane.setRight(weatherInfoArea);
-            weatherInfoArea.setText("Temperatura w " + cityName + ": " + temperature + " °C");
-        } catch (Exception e) {
-            e.printStackTrace();
+                // Wyświetl informacje w obszarze tekstowym
+                TextArea weatherInfoArea = (TextArea) borderPane.getRight();
+                weatherInfoArea.setText("Temperatura w " + cityName + ": " + temperature + " °C");
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 }
